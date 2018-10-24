@@ -1,0 +1,100 @@
+kode_provinsi,nama_provinsi,tahun,rasio_gini
+11,Prop. Nanggroe Aceh Darussalam,2011,0.33
+11,Prop. Nanggroe Aceh Darussalam,2012,0.32
+11,Prop. Nanggroe Aceh Darussalam,2013,0.341
+12,Prop. Sumatera Utara,2011,0.35
+12,Prop. Sumatera Utara,2012,0.33
+12,Prop. Sumatera Utara,2013,0.354
+13,Prop. Sumatera Barat,2011,0.35
+13,Prop. Sumatera Barat,2012,0.36
+13,Prop. Sumatera Barat,2013,0.363
+14,Prop. Riau,2011,0.36
+14,Prop. Riau,2012,0.4
+14,Prop. Riau,2013,0.374
+15,Prop. Jambi,2011,0.34
+15,Prop. Jambi,2012,0.34
+15,Prop. Jambi,2013,0.348
+16,Prop. Sumatera Selatan,2011,0.34
+16,Prop. Sumatera Selatan,2012,0.4
+16,Prop. Sumatera Selatan,2013,0.383
+17,Prop. Bengkulu,2011,0.36
+17,Prop. Bengkulu,2012,0.35
+17,Prop. Bengkulu,2013,0.386
+18,Prop. Lampung,2011,0.37
+18,Prop. Lampung,2012,0.36
+18,Prop. Lampung,2013,0.356
+19,Prop. Kepulauan Bangka Belitung,2011,0.3
+19,Prop. Kepulauan Bangka Belitung,2012,0.29
+19,Prop. Kepulauan Bangka Belitung,2013,0.313
+21,Prop. Kepulauan Riau,2011,0.32
+21,Prop. Kepulauan Riau,2012,0.35
+21,Prop. Kepulauan Riau,2013,0.362
+31,Prop. DKI Jakarta,2011,0.44
+31,Prop. DKI Jakarta,2012,0.42
+31,Prop. DKI Jakarta,2013,0.433
+32,Prop. Jawa Barat,2011,0.41
+32,Prop. Jawa Barat,2012,0.41
+32,Prop. Jawa Barat,2013,0.411
+33,Prop. Jawa Tengah,2011,0.38
+33,Prop. Jawa Tengah,2012,0.38
+33,Prop. Jawa Tengah,2013,0.387
+34,Prop. D I Yogyakarta,2011,0.4
+34,Prop. D I Yogyakarta,2012,0.43
+34,Prop. D I Yogyakarta,2013,0.439
+35,Prop. Jawa Timur,2011,0.37
+35,Prop. Jawa Timur,2012,0.36
+35,Prop. Jawa Timur,2013,0.364
+36,Prop. Banten,2011,0.4
+36,Prop. Banten,2012,0.39
+36,Prop. Banten,2013,0.399
+51,Prop. Bali,2011,0.41
+51,Prop. Bali,2012,0.43
+51,Prop. Bali,2013,0.403
+52,Prop. Nusa Tenggara Barat,2011,0.36
+52,Prop. Nusa Tenggara Barat,2012,0.35
+52,Prop. Nusa Tenggara Barat,2013,0.364
+53,Prop. Nusa Tenggara Timur,2011,0.36
+53,Prop. Nusa Tenggara Timur,2012,0.36
+53,Prop. Nusa Tenggara Timur,2013,0.352
+61,Prop. Kalimantan Barat,2011,0.4
+61,Prop. Kalimantan Barat,2012,0.38
+61,Prop. Kalimantan Barat,2013,0.396
+62,Prop. Kalimantan Tengah,2011,0.34
+62,Prop. Kalimantan Tengah,2012,0.33
+62,Prop. Kalimantan Tengah,2013,0.35
+63,Prop. Kalimantan Selatan,2011,0.37
+63,Prop. Kalimantan Selatan,2012,0.38
+63,Prop. Kalimantan Selatan,2013,0.359
+64,Prop. Kalimantan Timur,2011,0.38
+64,Prop. Kalimantan Timur,2012,0.36
+64,Prop. Kalimantan Timur,2013,0.371
+71,Prop. Sulawesi Utara,2011,0.39
+71,Prop. Sulawesi Utara,2012,0.43
+71,Prop. Sulawesi Utara,2013,0.422
+72,Prop. Sulawesi Tengah,2011,0.38
+72,Prop. Sulawesi Tengah,2012,0.4
+72,Prop. Sulawesi Tengah,2013,0.407
+73,Prop. Sulawesi Selatan,2011,0.41
+73,Prop. Sulawesi Selatan,2012,0.41
+73,Prop. Sulawesi Selatan,2013,0.429
+74,Prop. Sulawesi Tenggara,2011,0.41
+74,Prop. Sulawesi Tenggara,2012,0.4
+74,Prop. Sulawesi Tenggara,2013,0.426
+75,Prop. Gorontalo,2011,0.46
+75,Prop. Gorontalo,2012,0.44
+75,Prop. Gorontalo,2013,0.437
+76,Prop. Sulawesi Barat,2011,0.34
+76,Prop. Sulawesi Barat,2012,0.31
+76,Prop. Sulawesi Barat,2013,0.349
+81,Prop. Maluku,2011,0.41
+81,Prop. Maluku,2012,0.38
+81,Prop. Maluku,2013,0.37
+82,Prop. Maluku Utara,2011,0.33
+82,Prop. Maluku Utara,2012,0.34
+82,Prop. Maluku Utara,2013,0.318
+91,Prop. Papua Barat,2011,0.4
+91,Prop. Papua Barat,2012,0.43
+91,Prop. Papua Barat,2013,0.431
+94,Prop. Papua,2011,0.42
+94,Prop. Papua,2012,0.44
+94,Prop. Papua,2013,0.442
